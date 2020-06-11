@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Fjalla+One&family=Kanit:wght@300&family=Metal+Mania&display=swap");
+
+.nav1 {
+  background-image: linear-gradient(360deg, #590803, black);
+
+  border-bottom: 0px solid #590803;
+}
+.lin {
+  color: #f5b454;
+
+  font-family: "Kanit", sans-serif;
+  margin: 10px;
+}
+.logo1 {
+  font-weight: bolder;
+  color: #f5b454;
+}
